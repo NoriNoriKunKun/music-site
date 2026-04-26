@@ -8,165 +8,51 @@
   </url>
 
   <url>
-    <loc>https://music-site-tawny.vercel.app/soga-rockin-2026-matome.html</loc>
+    <loc>https://music-site-tawny.vercel.app/guide-items.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://music-site-tawny.vercel.app/summer-fes-items.html</loc>
+    <loc>https://music-site-tawny.vercel.app/guide-heat.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://music-site-tawny.vercel.app/soga-items-ng-list-v2.html</loc>
+    <loc>https://music-site-tawny.vercel.app/guide-schedule.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://music-site-tawny.vercel.app/soga-timetable-guide.html</loc>
+    <loc>https://music-site-tawny.vercel.app/guide-fashion.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://music-site-tawny.vercel.app/soga-toilet-guide.html</loc>
+    <loc>https://music-site-tawny.vercel.app/guide-venue.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://music-site-tawny.vercel.app/soga-heatstroke-guide.html</loc>
+    <loc>https://music-site-tawny.vercel.app/guide-beginner.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://music-site-tawny.vercel.app/soga-girls-guide.html</loc>
+    <loc>https://music-site-tawny.vercel.app/guide-yoasobi.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://music-site-tawny.vercel.app/soga-solo-guide.html</loc>
+    <loc>https://music-site-tawny.vercel.app/guide-hotel.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/yoasobi-fashion-guide.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/yoasobi-setlist-2026.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-hotel-guide.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-rain-guide-v2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-arrival-time.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-return-train.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-return-strategy.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-goods-guide.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-sun-protection.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-fashion-guide.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-food-guide.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-beginner-mistakes.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-items-perfect-list.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-rockin-2026-heat.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-rockin-2026-lineup.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-ticket-strategy.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-congestion-guide.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-items-ng-list.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://music-site-tawny.vercel.app/soga-rain-guide.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <url>
